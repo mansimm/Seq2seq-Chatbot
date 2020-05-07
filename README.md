@@ -11,16 +11,16 @@ The following python packages are used in seq2seq-chatbot: (excluding packages t
   Follow the following steps to create virtual environment and install tensorflow
   
   1.Open terminal an type following command to create virtual environment named "chatbot"
-    conda create -n chatbot python=3.5
+      conda create -n chatbot python=3.5
     
   2.Activate environment using command
-    source activate chatbot
+      source activate chatbot
 
   3.Install tensorflow 1.0.0 using following command
-    pip install tensorflow==1.0.0
+      pip install tensorflow==1.0.0
     
   4.Install spyder using command
-    conda install spyder
+      conda install spyder
 
   5.Use following command to see installed packages
-    pip freeze
+      pip freeze
