@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 A conversational agent (chatbot) is a piece of software that is able to communicate with humans using Deep NLP.
 A sequence2sequence chatbot implementation with TensorFlow.
 
