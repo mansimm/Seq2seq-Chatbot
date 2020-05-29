@@ -32,5 +32,11 @@ The following python packages are used in seq2seq-chatbot: (excluding packages t
         
         
 # Adding dataset
-  Dataset used here is cornell movie corpus dataset.Dataset can be download from this repository 
+  Dataset used here is cornell movie corpus dataset.Dataset can be download from the same repository.
+  Dataset zip
+      cornell_movie_dialogs_corpus.zip
+      
+  Download and unzip zip.Following two files used for training
+    1.movie_lines.txt
+    2.movie_conversations.txt
 
