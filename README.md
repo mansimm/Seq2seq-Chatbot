@@ -1,4 +1,4 @@
-# Chatbot
+# Seq2seq Chatbot
 A conversational agent (chatbot) is a piece of software that is able to communicate with humans using Deep NLP.
 A sequence2sequence chatbot implementation with TensorFlow.
 
@@ -29,3 +29,8 @@ The following python packages are used in seq2seq-chatbot: (excluding packages t
   5.Use following command to see installed packages
   
         pip freeze
+        
+        
+# Adding dataset
+  Dataset used here is cornell movie corpus dataset.Dataset can be download from this repository 
+
